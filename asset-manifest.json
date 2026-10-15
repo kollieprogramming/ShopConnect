@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ShopConnect/static/js/main.7a53faec.js",
+    "index.html": "/ShopConnect/index.html",
+    "main.7a53faec.js.map": "/ShopConnect/static/js/main.7a53faec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7a53faec.js"
+  ]
+}
